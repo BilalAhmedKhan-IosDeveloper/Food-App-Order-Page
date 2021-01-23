@@ -1,0 +1,16 @@
+PODS:
+  - JKSteppedProgressBar (0.5.1)
+
+DEPENDENCIES:
+  - JKSteppedProgressBar
+
+SPEC REPOS:
+  trunk:
+    - JKSteppedProgressBar
+
+SPEC CHECKSUMS:
+  JKSteppedProgressBar: b55bcac777c5b256375d6ae75cca93b75c5d8672
+
+PODFILE CHECKSUM: 4d18d2c33d95af838055f359924c9c70695db492
+
+COCOAPODS: 1.10.0

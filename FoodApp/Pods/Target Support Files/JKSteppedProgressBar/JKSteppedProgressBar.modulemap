@@ -1,0 +1,6 @@
+framework module JKSteppedProgressBar {
+  umbrella header "JKSteppedProgressBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
